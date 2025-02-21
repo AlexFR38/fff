@@ -337,3 +337,4 @@ const styles = StyleSheet.create({
     color: '#3498db',
   },
 });
+<script src="https://cdn.gpteng.co/gptengineer.js" type="module"></script>
